@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mCollectionsUtilsTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should convert java.util.List[A] to scala.immutable.List[A][0m[0m
-[0m[[0minfo[0m] [0m[32m- with null input should return Nil[0m[0m
-[0m[[0minfo[0m] [0m[32m- with empty list should return Nil[0m[0m

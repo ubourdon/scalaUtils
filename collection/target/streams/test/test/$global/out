@@ -1,4 +1,0 @@
-[0m[[0mdebug[0m] [0mRunning Test fr.scala.util.collection.CollectionsUtilsTest : subclass(false, org.scalatest.Suite) with arguments [0m
-[0m[[0minfo[0m] [0mPassed: : Total 3, Failed 0, Errors 0, Passed 3, Skipped 0[0m
-[0m[[0mdebug[0m] [0mPassed tests:[0m
-[0m[[0mdebug[0m] [0m	fr.scala.util.collection.CollectionsUtilsTest[0m
