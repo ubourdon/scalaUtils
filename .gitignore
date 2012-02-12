@@ -1,4 +1,3 @@
 target/**
 .idea*
-lib_managed/*
-project/*
+lib_managed/*i
